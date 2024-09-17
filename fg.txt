@@ -16,9 +16,21 @@ hcdjdshjdskjdksjkdsjkdsjdksdlshjkds
 vhcdbjavghbjnjbjjkcjkcjnkcjkbjjjjnJNNkzjkcnjxkjc
 jkcdjjjkcjBCncjjbcbjjjbkcJJKjkcjjcjjdcjkdcjncjnjkjjkdjn
 knsdvnjdnkdsnklkldvs
+<<<<<<< HEAD
 =======
 hchdddsguyfdhghhgjhddshdsukdsf
 
 i love AMC in their dreams
 hahahahahahahaha
 >>>>>>> 23d1de577cb3a0210a94d12e4cadf89f07403a1f
+=======
+
+
+
+gdjhhjk
+xghvnb
+xgfhj
+xghcvhj
+xghvjvb
+chjvjh
+>>>>>>> feature-branch
